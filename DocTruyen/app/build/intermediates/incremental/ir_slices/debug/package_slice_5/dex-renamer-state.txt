@@ -1,0 +1,4 @@
+#Sat Jan 05 19:54:42 ICT 2019
+base.0=F\:\\Thuc Tap\\DocTruyen-Trong\\DocTruyen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
